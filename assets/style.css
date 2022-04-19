@@ -1,22 +1,38 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Akshar', sans-serif;
+    /* color: white; */
 }
 
 .main {
-    background-color: #DADDD8;
+    background-color: #c3d3cd;
 }
 
 .navbar {
-    background-color: #1C1C1C;
+    background-color: #073131;
     color: white;
 }
 
 .about {
-    background-color: #ECEBE4;
+    background-color: #305252;
     padding: 5px;
     margin: 5%;
     border-radius: 100px;
     text-align: center;
+    color: white;
+}
+
+.card {
+    background-color: #373E40;
+    margin-left: 43%;
+    margin-top: 10%;
+}
+
+.proj {
+    display: flex;
+    justify-content: center;
+    margin-top: 15%;
+    text-decoration: underline;
+    color: white;
 }
