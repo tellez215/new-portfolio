@@ -2,11 +2,10 @@
     margin: 0;
     padding: 0;
     font-family: 'Akshar', sans-serif;
-    /* color: white; */
 }
 
 .main {
-    background-color: #c3d3cd;
+    background-color: #4c6f70;
 }
 
 .navbar {
@@ -26,7 +25,7 @@
 .card {
     background-color: #373E40;
     margin-left: 43%;
-    margin-top: 10%;
+    margin-top: 8%;
 }
 
 .proj {
